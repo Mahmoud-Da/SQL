@@ -1,0 +1,25 @@
+DAtABASE:
+is a collection of data stored in a format that can easily be accessed.
+
+to mange our DB we use software application called Database Management System (DBMS)
+
+DBMS callsifaid as two categories
+1- Reational (SQL)
+we stored data in tabels that linked to each others using relationships 
+ex: 
+Customer -> Orders
+              |
+              ↓
+            Product
+
+there is alot of RDBMS (RelationDatabase Management Systems)
+MySQL
+SQL Server
+Oracle
+
+
+2- Not SQL
+don`t understans SQL (it have it`s own query language)
+
+
+

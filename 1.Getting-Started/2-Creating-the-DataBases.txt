@@ -1,0 +1,2 @@
+1- open create-databases.sql inside MySQL Workbench
+2- excuted to create the DB
